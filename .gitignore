@@ -1,0 +1,8 @@
+#log
+logs
+*.lognpm-debug.log*
+
+#Dependency directiories
+node_modules/
+
+#Runtime data
