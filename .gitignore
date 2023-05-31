@@ -5,3 +5,4 @@ logs
 #Dependency directiories
 node_modules/
 
+#Runtime data
